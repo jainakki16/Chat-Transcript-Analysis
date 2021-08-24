@@ -3,14 +3,10 @@
 <h2><b>Problem Statement</b></h2> 
 
 The covid-19 pandemic has affected the education system. Daily progress monitoring of student’s performance that was so prevalent in the offline method of teaching has been hampered due to the unavailability of class interaction and personal attention.
-<br><br>
-<p align = 'center'><img src = 'assets/offline.png' width='600' height='300'></p>
 <br>
 
 <h2><b>Objective</b></h2> 
 Past year many schools and colleges have introduced online forums where teachers ask questions to check student’s attentiveness and performance. We used transcripts of forums to monitor and study the class participation of students in online lectures.
-<br><br>
-<p align = 'center'><img src = 'assets/online.png' width='600' height='300'></p>
 <br>
 
 <h2><b>Important Points</b></h2>
