@@ -22,8 +22,6 @@ The online platforms introduces discussion forums where teachers can ask questio
 
 • In `data exploration`, we used `data visualization` methods such as graphs, histograms, etc to analyze responses between the student’s across different sessions more simply and effectively. Libraries like NLTK were used to find stopwords, most commonly used words, etc.<br>
 
-• Used `GloVe` which is a `pre-trained word embedding model`, to compare the similarity between the answer of students and the correct answers provided by the teacher.<br>
-
 • Provided detailed analysis of the students’ performance like daily attendance, daily response, number of correct responses, number of questions asked by the teacher in each session, number of responses to each question, etc. in `Tableau`.<br><br>
 
 <h2><b>Insights</b></h2>
